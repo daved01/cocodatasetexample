@@ -7,7 +7,10 @@ Before you start you should [download](https://cocodataset.org/#download) the im
 
 
 ## Related
-Post on mislabelled traffic lights in CODO: https://www.neuralception.com/mislabelled-traffic/
-Post about COCO traffic, an extension with label traffic light indication states: https://www.neuralception.com/cocodatasetextension/
-COCO traffic repo: https://github.com/daved01/cocoTraffic
-Post about making an object detector for iOS in Swift: https://www.neuralception.com/object-detection-app/
+- Post on mislabelled traffic lights in CODO: https://www.neuralception.com/mislabelled-traffic/
+
+- Post about COCO traffic, an extension with label traffic light indication states: https://www.neuralception.com/cocodatasetextension/
+
+- COCO traffic repo: https://github.com/daved01/cocoTraffic
+
+- Post about making an object detector for iOS in Swift: https://www.neuralception.com/object-detection-app/
